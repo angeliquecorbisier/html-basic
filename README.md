@@ -10,7 +10,8 @@
 2. Problème au niveau d'un "padding" (résolu);
 3. Problème au niveau de la bannière (résolu); 
 
-
+## Deadline:
+Projet à rendre pour le 24/12/19.
 
 
 
